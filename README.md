@@ -1,4 +1,4 @@
-# Health Appointment Portal
+# Health Appointment Authentication Portal
 
 A secure, modern patient appointment portal featuring robust authentication built with Vanilla JavaScript, HTML, CSS, and Supabase.
 
