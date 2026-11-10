@@ -13,5 +13,5 @@ A secure, modern patient appointment portal featuring robust authentication buil
 * **Backend / Auth:** Supabase
 * **Email Delivery:** Custom SMTP configuration
 
-## Team
-Developed by Spark Igniters
+## Author
+Developed by Meet Agrawal
